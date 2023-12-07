@@ -6,7 +6,7 @@ function App() {
      
 <html>
   <body>
-    <p><button>YOGESH IA 5</button></p>
+    <p><button>YOGESH</button></p>
   </body>
 </html> 
   );
